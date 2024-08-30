@@ -4,14 +4,21 @@ A dashboard integrating data from multiple sources to analyze historical economi
 
 ![image](https://github.com/user-attachments/assets/a3bf6934-3020-4c9d-b5a7-495dfe53b9be)
 
+The following screenshot represents the amount spent on each sector to the % of GDP
 
 ![image](https://github.com/user-attachments/assets/6e6f4905-d770-4ccb-bd4c-5322023d6537)
 
+The following screenshot represents inflation, bank interest, GDP growth, and unemployment.
+
+
 ![image](https://github.com/user-attachments/assets/957bc1b7-d5b4-4783-9fa0-334669973f86)
+
+The following screenshot represents foreign and gold reserves.
 
 
 ![image](https://github.com/user-attachments/assets/8ada4de1-db7b-4ca9-bd63-a6b9e4cac0a4)
 
+The following screenshot represents population and human health indexs.
 
 ![image](https://github.com/user-attachments/assets/9301411b-5b20-4da9-889a-dd1b819bc752)
 
